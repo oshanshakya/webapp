@@ -1,0 +1,26 @@
+[
+    {
+      "name": "Dai Stablecoin",
+      "address": "0xf981773105206ad6b7d2845D117e24B2970E01b5",
+      "symbol": "DAI",
+      "decimals": 18
+    },
+    {
+      "name": "Frax",
+      "address": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+      "symbol": "FRAX",
+      "decimals": 18
+    },
+    {
+      "name": "Magic Internet Money",
+      "address": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+      "symbol": "MIM",
+      "decimals": 18
+    },
+    {
+      "name": "USDCoin",
+      "address": "0xf981773105206ad6b7d2845D117e24B2970E01b5",
+      "symbol": "USDC",
+      "decimals": 6
+    }
+  ]
